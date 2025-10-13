@@ -1,18 +1,18 @@
 *{
-    background-color: lightgoldenrodyellow;
+    background-color: antiquewhite;
+    font-size: 20px;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 h1{
-    color: darkmagenta;
-}
-.modre_pismo{
-    color: blue;
-}
-.cervene_pismo{
-    color: crimson;
-}
-a{
-    color: aquamarine;
-}
-p{
     color: red;
+}
+h2{
+    color: rgb(63, 63, 228);
+}
+
+.modré_písmo{
+    color: rgb(4, 0, 255);
+}
+
+p{
+    color: RGB(112,173,71);
 }
