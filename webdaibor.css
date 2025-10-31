@@ -1,0 +1,41 @@
+h1{
+    color: blueviolet;
+    background-color: black;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    border: 5px solid purple;
+    padding: 10px;
+    margin: 20px;   
+}
+p{
+    color: rgb(0, 14, 209);
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+}
+h2{
+    color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-decoration: underline;
+}
+table{
+    width: 20%;
+    border-collapse:initial;
+    margin: 10px 0;
+    background-color: black;
+    color: violet;
+    border-color: blueviolet;
+}
+body{
+    background-color: black;
+}
+td, th{
+    border: 2px solid purple;
+    padding: 8px;
+    text-align: center;
+}
+th{
+    background-color: purple;
+    color: white;
+}
