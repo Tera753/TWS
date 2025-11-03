@@ -1,0 +1,19 @@
+th{
+    background-color: lightblue;
+    color: black;
+}
+td,tr{
+    color: blue;
+}
+table, th, td {
+  border: 3px solid red;
+}
+.Druhá{
+list-style-type: circle
+}
+.Třetí{
+    list-style-type: square;
+}
+#barva{
+    color: blue;
+}
